@@ -1,0 +1,6 @@
+name = "my-worker-with-router"
+type = "webpack"
+account_id = "f0db67bf74b47a4be89eb8d8a8782c29"
+workers_dev = true
+route = ""
+zone_id = ""
